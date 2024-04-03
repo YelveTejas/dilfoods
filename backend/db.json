@@ -1,0 +1,739 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "sales": 68,
+        "revenue": 2345,
+        "userActivity": 345,
+        "year": 2020,
+        "month": "January"
+      },
+      {
+        "id": 2,
+        "sales": 92,
+        "revenue": 4123,
+        "userActivity": 567,
+        "year": 2020,
+        "month": "February"
+      },
+      {
+        "id": 3,
+        "sales": 53,
+        "revenue": 1789,
+        "userActivity": 432,
+        "year": 2020,
+        "month": "March"
+      },
+      {
+        "id": 4,
+        "sales": 118,
+        "revenue": 5432,
+        "userActivity": 789,
+        "year": 2020,
+        "month": "April"
+      },
+      {
+        "id": 5,
+        "sales": 81,
+        "revenue": 3567,
+        "userActivity": 654,
+        "year": 2020,
+        "month": "May"
+      },
+      {
+        "id": 6,
+        "sales": 105,
+        "revenue": 4321,
+        "userActivity": 876,
+        "year": 2020,
+        "month": "June"
+      },
+      {
+        "id": 7,
+        "sales": 62,
+        "revenue": 2890,
+        "userActivity": 543,
+        "year": 2020,
+        "month": "July"
+      },
+      {
+        "id": 8,
+        "sales": 74,
+        "revenue": 3210,
+        "userActivity": 678,
+        "year": 2020,
+        "month": "August"
+      },
+      {
+        "id": 9,
+        "sales": 89,
+        "revenue": 3876,
+        "userActivity": 987,
+        "year": 2020,
+        "month": "September"
+      },
+      {
+        "id": 10,
+        "sales": 72,
+        "revenue": 2987,
+        "userActivity": 765,
+        "year": 2020,
+        "month": "October"
+      },
+      {
+        "id": 11,
+        "sales": 97,
+        "revenue": 4098,
+        "userActivity": 890,
+        "year": 2020,
+        "month": "November"
+      },
+      {
+        "id": 12,
+        "sales": 45,
+        "revenue": 1567,
+        "userActivity": 456,
+        "year": 2020,
+        "month": "December"
+      },
+      {
+        "id": 13,
+        "sales": 83,
+        "revenue": 3654,
+        "userActivity": 654,
+        "year": 2021,
+        "month": "January"
+      },
+      {
+        "id": 14,
+        "sales": 110,
+        "revenue": 4756,
+        "userActivity": 876,
+        "year": 2021,
+        "month": "February"
+      },
+      {
+        "id": 15,
+        "sales": 56,
+        "revenue": 2000,
+        "userActivity": 543,
+        "year": 2021,
+        "month": "March"
+      },
+      {
+        "id": 16,
+        "sales": 68,
+        "revenue": 3000,
+        "userActivity": 678,
+        "year": 2021,
+        "month": "April"
+      },
+      {
+        "id": 17,
+        "sales": 101,
+        "revenue": 4200,
+        "userActivity": 987,
+        "year": 2021,
+        "month": "May"
+      },
+      {
+        "id": 18,
+        "sales": 49,
+        "revenue": 1850,
+        "userActivity": 765,
+        "year": 2021,
+        "month": "June"
+      },
+      {
+        "id": 19,
+        "sales": 79,
+        "revenue": 3400,
+        "userActivity": 890,
+        "year": 2021,
+        "month": "July"
+      },
+      {
+        "id": 20,
+        "sales": 65,
+        "revenue": 2750,
+        "userActivity": 456,
+        "year": 2021,
+        "month": "August"
+      },
+      {
+        "id": 21,
+        "sales": 94,
+        "revenue": 3900,
+        "userActivity": 654,
+        "year": 2021,
+        "month": "September"
+      },
+      {
+        "id": 22,
+        "sales": 120,
+        "revenue": 5000,
+        "userActivity": 876,
+        "year": 2021,
+        "month": "October"
+      },
+      {
+        "id": 23,
+        "sales": 60,
+        "revenue": 2500,
+        "userActivity": 543,
+        "year": 2021,
+        "month": "November"
+      },
+      {
+        "id": 24,
+        "sales": 75,
+        "revenue": 3250,
+        "userActivity": 678,
+        "year": 2021,
+        "month": "December"
+      },
+      {
+        "id": 25,
+        "sales": 88,
+        "revenue": 3800,
+        "userActivity": 987,
+        "year": 2022,
+        "month": "January"
+      },
+      {
+        "id": 26,
+        "sales": 70,
+        "revenue": 2950,
+        "userActivity": 765,
+        "year": 2022,
+        "month": "February"
+      },
+      {
+        "id": 27,
+        "sales": 99,
+        "revenue": 4125,
+        "userActivity": 890,
+        "year": 2022,
+        "month": "March"
+      },
+      {
+        "id": 28,
+        "sales": 58,
+        "revenue": 2100,
+        "userActivity": 456,
+        "year": 2022,
+        "month": "April"
+      },
+      {
+        "id": 29,
+        "sales": 85,
+        "revenue": 3725,
+        "userActivity": 654,
+        "year": 2022,
+        "month": "May"
+      },
+      {
+        "id": 30,
+        "sales": 112,
+        "revenue": 4900,
+        "userActivity": 876,
+        "year": 2022,
+        "month": "June"
+      },
+      {
+        "id": 31,
+        "sales": 51,
+        "revenue": 1950,
+        "userActivity": 543,
+        "year": 2022,
+        "month": "July"
+      },
+      {
+        "id": 32,
+        "sales": 77,
+        "revenue": 3333,
+        "userActivity": 678,
+        "year": 2022,
+        "month": "August"
+      },
+      {
+        "id": 33,
+        "sales": 103,
+        "revenue": 4300,
+        "userActivity": 987,
+        "year": 2022,
+        "month": "September"
+      },
+      {
+        "id": 34,
+        "sales": 47,
+        "revenue": 1700,
+        "userActivity": 765,
+        "year": 2022,
+        "month": "October"
+      },
+      {
+        "id": 35,
+        "sales": 78,
+        "revenue": 3350,
+        "userActivity": 890,
+        "year": 2022,
+        "month": "November"
+      },
+      {
+        "id": 36,
+        "sales": 64,
+        "revenue": 2700,
+        "userActivity": 456,
+        "year": 2022,
+        "month": "December"
+      },
+      {
+        "id": 37,
+        "sales": 91,
+        "revenue": 4050,
+        "userActivity": 654,
+        "year": 2023,
+        "month": "January"
+      },
+      {
+        "id": 38,
+        "sales": 115,
+        "revenue": 4800,
+        "userActivity": 876,
+        "year": 2023,
+        "month": "February"
+      },
+      {
+        "id": 39,
+        "sales": 55,
+        "revenue": 2200,
+        "userActivity": 543,
+        "year": 2023,
+        "month": "March"
+      },
+      {
+        "id": 40,
+        "sales": 71,
+        "revenue": 3050,
+        "userActivity": 678,
+        "year": 2023,
+        "month": "April"
+      },
+      {
+        "id": 41,
+        "sales": 87,
+        "revenue": 3750,
+        "userActivity": 987,
+        "year": 2023,
+        "month": "May"
+      },
+      {
+        "id": 42,
+        "sales": 66,
+        "revenue": 2850,
+        "userActivity": 765,
+        "year": 2023,
+        "month": "June"
+      },
+      {
+        "id": 43,
+        "sales": 98,
+        "revenue": 4150,
+        "userActivity": 890,
+        "year": 2023,
+        "month": "July"
+      },
+      {
+        "id": 44,
+        "sales": 59,
+        "revenue": 2150,
+        "userActivity": 456,
+        "year": 2023,
+        "month": "August"
+      },
+      {
+        "id": 45,
+        "sales": 84,
+        "revenue": 3675,
+        "userActivity": 654,
+        "year": 2023,
+        "month": "September"
+      },
+      {
+        "id": 46,
+        "sales": 108,
+        "revenue": 4650,
+        "userActivity": 876,
+        "year": 2023,
+        "month": "October"
+      },
+      {
+        "id": 47,
+        "sales": 50,
+        "revenue": 1900,
+        "userActivity": 543,
+        "year": 2023,
+        "month": "November"
+      },
+      {
+        "id": 48,
+        "sales": 80,
+        "revenue": 3450,
+        "userActivity": 678,
+        "year": 2023,
+        "month": "December"
+      }
+    ],
+  
+    "topSellingProducts": [
+      { "id": 1, "year": 2020, "name": "Bhole ke Chole", "salesCount": 125 },
+      { "id": 2, "year": 2020, "name": "Dil Punjabi", "salesCount": 98 },
+      { "id": 3, "year": 2020, "name": "The Chaat Cult", "salesCount": 87 },
+      { "id": 4, "year": 2020, "name": "Kichdi Bar", "salesCount": 76 },
+      { "id": 5, "year": 2020, "name": "Bihari Bowl", "salesCount": 155 },
+      { "id": 6, "year": 2021, "name": "Bhole ke Chole", "salesCount": 130 },
+      { "id": 7, "year": 2021, "name": "Dil Punjabi", "salesCount": 105 },
+      { "id": 8, "year": 2021, "name": "The Chaat Cult", "salesCount": 90 },
+      { "id": 9, "year": 2021, "name": "Kichdi Bar", "salesCount": 80 },
+      { "id": 10, "year": 2021, "name": "Bihari Bowl", "salesCount": 70 },
+      { "id": 11, "year": 2022, "name": "Bhole ke Chole", "salesCount": 112 },
+      { "id": 12, "year": 2022, "name": "Dil Punjabi", "salesCount": 125 },
+      { "id": 13, "year": 2022, "name": "The Chaat Cult", "salesCount": 110 },
+      { "id": 14, "year": 2022, "name": "Kichdi Bar", "salesCount": 95 },
+      { "id": 15, "year": 2022, "name": "Bihari Bowl", "salesCount": 85 },
+      { "id": 16, "year": 2023, "name": "Bhole ke Chole", "salesCount": 160 },
+      { "id": 17, "year": 2023, "name": "Dil Punjabi", "salesCount": 135 },
+      { "id": 18, "year": 2023, "name": "The Chaat Cult", "salesCount": 175 },
+      { "id": 19, "year": 2023, "name": "Kichdi Bar", "salesCount": 100 },
+      { "id": 20, "year": 2023, "name": "Bihari Bowl", "salesCount": 90 }
+    ],
+  
+    "dummyData": [
+      {
+        "id": 1,
+        "date": "Feb 1, 2021",
+        "date1": "Feb 1, 2022",
+        "onlineStoreSessions": 30562,
+        "netReturnValue": "3800.25",
+        "totalOrders": 7234,
+        "conversionRate": "4.68",
+        "onlineStoreSessions1": 45329,
+        "netReturnValue1": "3410.78",
+        "totalOrders1": 6844,
+        "conversionRate1": "8.37"
+      },
+      {
+        "id": 2,
+        "date": "Mar 1, 2021",
+        "date1": "Mar 1, 2022",
+        "onlineStoreSessions": 43621,
+        "netReturnValue": "2956.10",
+        "totalOrders": 8271,
+        "conversionRate": "7.92",
+        "onlineStoreSessions1": 49123,
+        "netReturnValue1": "1820.65",
+        "totalOrders1": 6648,
+        "conversionRate1": "4.92"
+      },
+      {
+        "id": 3,
+        "date": "Apr 1, 2021",
+        "date1": "Apr 1, 2022",
+        "onlineStoreSessions": 54192,
+        "netReturnValue": "2124.89",
+        "totalOrders": 10245,
+        "conversionRate": "2.81",
+        "onlineStoreSessions1": 57239,
+        "netReturnValue1": "2956.11",
+        "totalOrders1": 9876,
+        "conversionRate1": "7.79"
+      },
+      {
+        "id": 4,
+        "date": "May 1, 2021",
+        "date1": "May 1, 2022",
+        "onlineStoreSessions": 37892,
+        "netReturnValue": "3329.75",
+        "totalOrders": 6578,
+        "conversionRate": "5.16",
+        "onlineStoreSessions1": 41234,
+        "netReturnValue1": "3476.88",
+        "totalOrders1": 7654,
+        "conversionRate1": "5.34"
+      },
+      {
+        "id": 5,
+        "date": "Jun 1, 2021",
+        "date1": "Jun 1, 2022",
+        "onlineStoreSessions": 48755,
+        "netReturnValue": "2955.32",
+        "totalOrders": 8742,
+        "conversionRate": "8.93",
+        "onlineStoreSessions1": 53678,
+        "netReturnValue1": "2134.45",
+        "totalOrders1": 9321,
+        "conversionRate1": "6.15"
+      },
+      {
+        "id": 6,
+        "date": "Jul 1, 2021",
+        "date1": "Jul 1, 2022",
+        "onlineStoreSessions": 50234,
+        "netReturnValue": "1872.46",
+        "totalOrders": 9436,
+        "conversionRate": "3.78",
+        "onlineStoreSessions1": 59432,
+        "netReturnValue1": "1982.34",
+        "totalOrders1": 9455,
+        "conversionRate1": "3.92"
+      },
+      {
+        "id": 7,
+        "date": "Aug 1, 2021",
+        "date1": "Aug 1, 2022",
+        "onlineStoreSessions": 41978,
+        "netReturnValue": "4131.12",
+        "totalOrders": 7890,
+        "conversionRate": "6.72",
+        "onlineStoreSessions1": 47569,
+        "netReturnValue1": "3947.62",
+        "totalOrders1": 9887,
+        "conversionRate1": "3.68"
+      },
+      {
+        "id": 8,
+        "date": "Sep 1, 2021",
+        "date1": "Sep 1, 2022",
+        "onlineStoreSessions": 34567,
+        "netReturnValue": "1332.75",
+        "totalOrders": 6423,
+        "conversionRate": "4.20",
+        "onlineStoreSessions1": 39278,
+        "netReturnValue1": "1523.90",
+        "totalOrders1": 7234,
+        "conversionRate1": "6.79"
+      },
+      {
+        "id": 9,
+        "date": "Oct 1, 2021",
+        "date1": "Oct 1, 2022",
+        "onlineStoreSessions": 46789,
+        "netReturnValue": "2567.98",
+        "totalOrders": 9034,
+        "conversionRate": "7.05",
+        "onlineStoreSessions1": 51876,
+        "netReturnValue1": "2710.35",
+        "totalOrders1": 8944,
+        "conversionRate1": "5.12"
+      },
+      {
+        "id": 10,
+        "date": "Nov 1, 2021",
+        "date1": "Nov 1, 2022",
+        "onlineStoreSessions": 39543,
+        "netReturnValue": "3150.64",
+        "totalOrders": 7245,
+        "conversionRate": "5.89",
+        "onlineStoreSessions1": 45689,
+        "netReturnValue1": "2856.70",
+        "totalOrders1": 6411,
+        "conversionRate1": "5.21"
+      },
+      {
+        "id": 11,
+        "date": "Dec 1, 2021",
+        "date1": "Dec 1, 2022",
+        "onlineStoreSessions": 51236,
+        "netReturnValue": "1876.30",
+        "totalOrders": 6584,
+        "conversionRate": "3.22",
+        "onlineStoreSessions1": 61234,
+        "netReturnValue1": "3245.88",
+        "totalOrders1": 7845,
+        "conversionRate1": "1.44"
+      },
+      {
+        "id": 12,
+        "date": "Jan 1, 2022",
+        "date1": "Jan 1, 2023",
+        "onlineStoreSessions": 58721,
+        "netReturnValue": "2398.45",
+        "totalOrders": 9451,
+        "conversionRate": "6.44",
+        "onlineStoreSessions1": 58723,
+        "netReturnValue1": "2147.33",
+        "totalOrders1": 8654,
+        "conversionRate1": "4.98"
+      },
+      {
+        "id": 13,
+        "date": "Feb 1, 2022",
+        "date1": "Feb 1, 2023",
+        "onlineStoreSessions": 45329,
+        "netReturnValue": "3410.78",
+        "totalOrders": 6844,
+        "conversionRate": "8.37",
+        "onlineStoreSessions1": 50145,
+        "netReturnValue1": "6001.78",
+        "totalOrders1": 8600,
+        "conversionRate1": "9.30"
+      },
+      {
+        "id": 14,
+        "date": "Mar 1, 2022",
+        "date1": "Mar 1, 2023",
+        "onlineStoreSessions": 49123,
+        "netReturnValue": "1820.65",
+        "totalOrders": 6648,
+        "conversionRate": "4.92",
+        "onlineStoreSessions1": 44751,
+        "netReturnValue1": "3566.00",
+        "totalOrders1": 4588,
+        "conversionRate1": "4.95"
+      },
+      {
+        "id": 15,
+        "date": "Apr 1, 2022",
+        "date1": "Apr 1, 2023",
+        "onlineStoreSessions": 57239,
+        "netReturnValue": "2956.11",
+        "totalOrders": 9876,
+        "conversionRate": "7.79",
+        "onlineStoreSessions1": 45645,
+        "netReturnValue1": "6544.00",
+        "totalOrders1": 6844,
+        "conversionRate1": "4.85"
+      },
+      {
+        "id": 16,
+        "date": "May 1, 2022",
+        "date1": "May 1, 2023",
+        "onlineStoreSessions": 41234,
+        "netReturnValue": "3476.88",
+        "totalOrders": 7654,
+        "conversionRate": "5.34",
+        "onlineStoreSessions1": 35444,
+        "netReturnValue1": "5558.00",
+        "totalOrders1": 6477,
+        "conversionRate1": "2.28"
+      },
+      {
+        "id": 17,
+        "date": "Jun 1, 2022",
+        "date1": "Jun 1, 2023",
+        "onlineStoreSessions": 53678,
+        "netReturnValue": "2134.45",
+        "totalOrders": 9321,
+        "conversionRate": "6.15",
+        "onlineStoreSessions1": 47586,
+        "netReturnValue1": "6547.00",
+        "totalOrders1": 7845,
+        "conversionRate1": "4.20"
+      },
+      {
+        "id": 18,
+        "date": "Jul 1, 2022",
+        "date1": "Jul 1, 2023",
+        "onlineStoreSessions": 59432,
+        "netReturnValue": "1982.34",
+        "totalOrders": 9455,
+        "conversionRate": "3.92",
+        "onlineStoreSessions1": 65874,
+        "netReturnValue1": "2000.00",
+        "totalOrders1": 11500,
+        "conversionRate1": "8.85"
+      },
+      {
+        "id": 19,
+        "date": "Aug 1, 2022",
+        "date1": "Aug 1, 2023",
+        "onlineStoreSessions": 47569,
+        "netReturnValue": "3947.62",
+        "totalOrders": 9887,
+        "conversionRate": "3.68",
+        "onlineStoreSessions1": 41874,
+        "netReturnValue1": "2456.00",
+        "totalOrders1": 7874,
+        "conversionRate1": "1.72"
+      },
+      {
+        "id": 20,
+        "date": "Sep 1, 2022",
+        "date1": "Sep 1, 2023",
+        "onlineStoreSessions": 39278,
+        "netReturnValue": "1523.90",
+        "totalOrders": 7234,
+        "conversionRate": "6.79",
+        "onlineStoreSessions1": 45248,
+        "netReturnValue1": "3302.00",
+        "totalOrders1": 8422,
+        "conversionRate1": "4.85"
+      },
+      {
+        "id": 21,
+        "date": "Oct 1, 2022",
+        "date1": "Oct 1, 2023",
+        "onlineStoreSessions": 51876,
+        "netReturnValue": "2710.35",
+        "totalOrders": 8944,
+        "conversionRate": "5.12",
+        "onlineStoreSessions1": 36457,
+        "netReturnValue1": "1270.00",
+        "totalOrders1": 6455,
+        "conversionRate1": "3.08"
+      },
+      {
+        "id": 22,
+        "date": "Nov 1, 2022",
+        "date1": "Nov 1, 2023",
+        "onlineStoreSessions": 45689,
+        "netReturnValue": "2856.70",
+        "totalOrders": 6411,
+        "conversionRate": "5.21",
+        "onlineStoreSessions1": 49065,
+        "netReturnValue1": "5246.00",
+        "totalOrders1": 8500,
+        "conversionRate1": "8.15"
+      },
+      {
+        "id": 23,
+        "date": "Dec 1, 2022",
+        "date1": "Dec 1, 2023",
+        "onlineStoreSessions": 61234,
+        "netReturnValue": "3245.88",
+        "totalOrders": 7845,
+        "conversionRate": "1.44",
+        "onlineStoreSessions1": 65548,
+        "netReturnValue1": "1547.00",
+        "totalOrders1": 10265,
+        "conversionRate1": "8.48"
+      },
+      {
+        "id": 24,
+        "date": "Jan 1, 2023",
+        "date1": "Jan 1, 2024",
+        "onlineStoreSessions": 58723,
+        "netReturnValue": "2147.33",
+        "totalOrders": 8654,
+        "conversionRate": "4.98",
+        "onlineStoreSessions1": 51457,
+        "netReturnValue1": "1485.00",
+        "totalOrders1": 5877,
+        "conversionRate1": "2.05"
+      },
+      {
+        "id": 25,
+        "date": "Feb 1, 2023",
+        "date1": "Feb 1, 2024",
+        "onlineStoreSessions": 54321,
+        "netReturnValue": "2598.40",
+        "totalOrders": 6123,
+        "conversionRate": "6.15",
+        "onlineStoreSessions1": 59004,
+        "netReturnValue1": "502.00",
+        "totalOrders1": 7856,
+        "conversionRate1": "8.10"
+      }
+    ]
+  }
