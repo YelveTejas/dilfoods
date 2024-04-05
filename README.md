@@ -40,6 +40,6 @@ npm run start
 ## Snaps
 
 ![Screenshot (96)](https://github.com/YelveTejas/dilfoods/assets/103955930/c2331edb-02e7-4362-a18e-dc7634ccd217)
-![Screenshot (97)](https://github.com/YelveTejas/dilfoods/assets/103955930/98586bf9-18bb-4f96-9d39-5a03a330c023)
+![Screenshot (99)](https://github.com/YelveTejas/dilfoods/assets/103955930/ded5dbd8-9aea-4d11-9ce4-209fecb84778)
 ![Screenshot (98)](https://github.com/YelveTejas/dilfoods/assets/103955930/b3aa5d66-7052-4a16-aaca-b4a9c0c9e64c)
 
