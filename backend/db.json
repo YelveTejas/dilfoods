@@ -735,5 +735,168 @@
         "totalOrders1": 7856,
         "conversionRate1": "8.10"
       }
+    ],
+    "foodData" :[
+      {
+        "category": "Seafood",
+        "freshness": 9,
+        "taste": 8,
+        "nutrition": 7,
+        "affordability": 6,
+        "sustainability": 9
+      },
+      {
+        "category": "Poultry",
+        "freshness": 8,
+        "taste": 7,
+        "nutrition": 8,
+        "affordability": 7,
+        "sustainability": 8
+      },
+      {
+        "category": "Legumes",
+        "freshness": 7,
+        "taste": 6,
+        "nutrition": 9,
+        "affordability": 8,
+        "sustainability": 7
+      },
+      {
+        "category": "Nuts and Seeds",
+        "freshness": 8,
+        "taste": 8,
+        "nutrition": 9,
+        "affordability": 6,
+        "sustainability": 7
+      },
+      {
+        "category": "Beverages",
+        "freshness": 7,
+        "taste": 8,
+        "nutrition": 6,
+        "affordability": 8,
+        "sustainability": 6
+      },
+      {
+        "category": "Snacks",
+        "freshness": 6,
+        "taste": 7,
+        "nutrition": 6,
+        "affordability": 7,
+        "sustainability": 5
+      },
+      {
+        "category": "Desserts",
+        "freshness": 7,
+        "taste": 9,
+        "nutrition": 6,
+        "affordability": 6,
+        "sustainability": 5
+      },
+      {
+        "category": "Condiments",
+        "freshness": 8,
+        "taste": 7,
+        "nutrition": 6,
+        "affordability": 7,
+        "sustainability": 6
+      },
+      {
+        "category": "Baked Goods",
+        "freshness": 7,
+        "taste": 8,
+        "nutrition": 6,
+        "affordability": 6,
+        "sustainability": 5
+      },
+      {
+        "category": "Frozen Foods",
+        "freshness": 8,
+        "taste": 7,
+        "nutrition": 7,
+        "affordability": 7,
+        "sustainability": 6
+      },
+      {
+        "category": "Canned Foods",
+        "freshness": 7,
+        "taste": 6,
+        "nutrition": 6,
+        "affordability": 8,
+        "sustainability": 6
+      },
+      {
+        "category": "Sauces",
+        "freshness": 8,
+        "taste": 9,
+        "nutrition": 7,
+        "affordability": 7,
+        "sustainability": 6
+      },
+      {
+        "category": "Spices",
+        "freshness": 9,
+        "taste": 8,
+        "nutrition": 7,
+        "affordability": 6,
+        "sustainability": 7
+      },
+      {
+        "category": "Oils",
+        "freshness": 8,
+        "taste": 7,
+        "nutrition": 7,
+        "affordability": 6,
+        "sustainability": 7
+      },
+      {
+        "category": "Herbs",
+        "freshness": 9,
+        "taste": 8,
+        "nutrition": 7,
+        "affordability": 6,
+        "sustainability": 8
+      },
+      {
+        "category": "Dairy Alternatives",
+        "freshness": 7,
+        "taste": 7,
+        "nutrition": 8,
+        "affordability": 6,
+        "sustainability": 7
+      },
+      {
+        "category": "Organic Foods",
+        "freshness": 8,
+        "taste": 8,
+        "nutrition": 9,
+        "affordability": 6,
+        "sustainability": 9
+      },
+      {
+        "category": "Gluten-Free Foods",
+        "freshness": 7,
+        "taste": 7,
+        "nutrition": 8,
+        "affordability": 6,
+        "sustainability": 7
+      },
+      {
+        "category": "Vegan Foods",
+        "freshness": 8,
+        "taste": 8,
+        "nutrition": 9,
+        "affordability": 7,
+        "sustainability": 8
+      },
+      {
+        "category": "Vegetarian Foods",
+        "freshness": 7,
+        "taste": 8,
+        "nutrition": 8,
+        "affordability": 7,
+        "sustainability": 7
+      }
     ]
+    
   }
